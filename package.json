@@ -1,0 +1,15 @@
+{
+    "name": "com.michmond.motioncaptureless",
+    "version": "0.0.1",
+    "displayName": "Motion Capture",
+    "description": "Optical and mechanical motion capture with seamless integration. A cost-effective solution that provides the ability to quickly record and process accurate motion data. Visit our website for more information on hardware compatibility and supported extensions:https://michmond.com/3d/mo-cap",
+    "unity": "2021.3",
+    "author": {
+        "name": "Michmond Creative Studio",
+        "email": "info@michmond.com",
+        "url": "https://michmond.com"
+      },
+    "keywords": ["editor", "motion"],
+    "category": "Editor",
+    "dependencies": {}
+  }
