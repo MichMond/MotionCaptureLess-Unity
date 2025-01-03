@@ -4,9 +4,4 @@ namespace Michmond.MoCap
     {
 
     }
-
-    enum TransferMethod
-    {
-        json, binary
-    }
 }

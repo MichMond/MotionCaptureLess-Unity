@@ -4,15 +4,16 @@ using UnityEngine;
 
 namespace Michmond.MoCap
 {
-    public class MyEditorExtension : EditorWindow
+    public class MotionEitor : EditorWindow
     {
         private string inputText = "Hello, Unity!";
 
-        [MenuItem("Window/Michmond/Motion Capture")]
+        [MenuItem("Window/Michmond/Motion Editor")]
         public static void ShowWindow()
         {
-            GetWindow<MyEditorExtension>("My Editor Extension");
+            GetWindow<MotionEitor>("My Editor Extension");
         }
+
 
         private void OnGUI()
         {
